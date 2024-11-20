@@ -1,0 +1,72 @@
+[
+    {
+        "ScaledTimeAlive": "0.01877863523466128",
+        "RoundKills": "5",
+        "AvgKillDistance": "743941.0808066864",
+        "RLethalGrenadesThrown": "3",
+        "RoundStartingEquipmentValue": "4159.45990322067"
+    },
+    {
+        "ScaledTimeAlive": "1.165393485458446",
+        "RoundKills": "0",
+        "AvgKillDistance": "442416.54956153175",
+        "RLethalGrenadesThrown": "3",
+        "RoundStartingEquipmentValue": "3862.147962028746"
+    },
+    {
+        "ScaledTimeAlive": "0.4851682079302093",
+        "RoundKills": "2",
+        "AvgKillDistance": "915890.470692804",
+        "RLethalGrenadesThrown": "0",
+        "RoundStartingEquipmentValue": "5458.830374528663"
+    },
+    {
+        "ScaledTimeAlive": "0.29953700543504724",
+        "RoundKills": "3",
+        "AvgKillDistance": "2872558.321080923",
+        "RLethalGrenadesThrown": "3",
+        "RoundStartingEquipmentValue": "2567.33709775039"
+    },
+    {
+        "ScaledTimeAlive": "1.0758682182291979",
+        "RoundKills": "0",
+        "AvgKillDistance": "10472529.309242668",
+        "RLethalGrenadesThrown": "3",
+        "RoundStartingEquipmentValue": "5261.40740503502"
+    },
+    {
+        "ScaledTimeAlive": "1.8346403726853975",
+        "RoundKills": "5",
+        "AvgKillDistance": "10696079.650159555",
+        "RLethalGrenadesThrown": "4",
+        "RoundStartingEquipmentValue": "6672.7161915146025"
+    },
+    {
+        "ScaledTimeAlive": "0.651928295692056",
+        "RoundKills": "0",
+        "AvgKillDistance": "8947546.745724844",
+        "RLethalGrenadesThrown": "4",
+        "RoundStartingEquipmentValue": "1143.7197487532137"
+    },
+    {
+        "ScaledTimeAlive": "0.30480870051513076",
+        "RoundKills": "3",
+        "AvgKillDistance": "4378082.923576881",
+        "RLethalGrenadesThrown": "2",
+        "RoundStartingEquipmentValue": "2803.8313804968443"
+    },
+    {
+        "ScaledTimeAlive": "1.4730177003644105",
+        "RoundKills": "3",
+        "AvgKillDistance": "291881.7605221196",
+        "RLethalGrenadesThrown": "2",
+        "RoundStartingEquipmentValue": "5733.362350008048"
+    },
+    {
+        "ScaledTimeAlive": "0.43546121157543993",
+        "RoundKills": "2",
+        "AvgKillDistance": "9094868.493626108",
+        "RLethalGrenadesThrown": "4",
+        "RoundStartingEquipmentValue": "334.7991440901056"
+    }
+]
